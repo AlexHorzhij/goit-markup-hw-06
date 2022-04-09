@@ -133,7 +133,6 @@ text-align: start;
 }
 .modal-form-lable{
   display: block;
-  margin-bottom: 10px;
   text-align: start;
   width: 100%;
 
@@ -144,11 +143,7 @@ text-align: start;
     color: var(--main-text-color);
 }
 .modal-form-lable-text{
-  /* font-size: 12px;
-  line-height: 1.17;
-  letter-spacing: 0.01em;
   margin-bottom: 4px;
-  color: var(--main-text-color); */
 }
 .modal-form-input{
   width: 100%;
@@ -161,11 +156,7 @@ text-align: start;
   outline: none;
 }
 .modal-form-message{
-  /* display: block;
-  text-align: start;
-  width: 100%; */
   margin-bottom: 20px;  
-
 }
 .form-text-message{
   width: 100%;
@@ -214,20 +205,6 @@ text-align: start;
   display: inline-block;
   background-image: url(../images/svg/check.svg);
 }
-
-
-
-check-square
-
-
-
-/* .modal-chekbox-area::before{
-  content: "";
-  display: inline-block;
-  width: 16px;
-  height: 15px;
-  border: 2px solid #212121;
- } */
 
 
 /* Logo */
